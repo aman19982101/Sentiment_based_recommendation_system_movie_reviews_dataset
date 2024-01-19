@@ -1,0 +1,2 @@
+# Sentiment_based_recommendation_system_movie_reviews_dataset
+A sentiment based recommendation system for movie reviews dataset.
